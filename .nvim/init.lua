@@ -1,1 +1,2 @@
-vim.opt.number = true
+require("settings")
+require("keymaps")

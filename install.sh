@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mv .nvim ~/.config/nvim
+cp nvim ~/.config/nvim
